@@ -9,7 +9,7 @@ Application to shortlist resume from the bulk of resumes
 * Dataset is provided(taken from HackerEarth challenge) that contains the resumes of various candidates, and job description for Machine Learning Engineer. The responsibility is to determine the percentage that a candidate fits the job role based on the job description.
 
 ### Data Description
-* Dataset is taken from HackerEarth Machine Learning Challenge([A Perfect Fit](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-resume-shortlisting/)). 
+* Dataset is taken from HackerEarth Machine Learning Challenge([A Perfect Fit](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-resume-shortlisting/)). Use this link to get the dataset. 
 * The dataset folder contains the following files:
     *  train.csv: 90 x 2
     *  trainResumes(a folder): 90 resumes that you must use for training your model
